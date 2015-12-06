@@ -24,3 +24,4 @@ function addToAmmount()
 	Game.Popup("Added!");
 	throw '';
 }
+loadCookie()
